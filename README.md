@@ -3,4 +3,4 @@
 Quizzler - A TrueFalse Quiz App
 
 
-![Finished App](https://github.com/salaheddinelhamraoui/quizzler/blob/master/quizzler-demo.gif)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
